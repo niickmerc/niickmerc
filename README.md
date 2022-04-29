@@ -1,4 +1,4 @@
-# Hey! ✌🏼
+# Hey!
 
 My name is Nick Mercuri. I’m 24 years old and currently live in Vancouver, Canada.
 
