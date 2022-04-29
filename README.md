@@ -1,4 +1,4 @@
-# hey! thanks for checking out my github :)
+# hey! thanks for checking out my github
 
 my name is nick mercuri. i’m 24 years old and currently live in vancouver, canada.
 
