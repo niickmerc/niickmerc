@@ -2,7 +2,7 @@ Hey! Thanks for checking out my GitHub.
 
 My name is Nick Mercuri. I’m 25 years old and based in Canada.
 
-I graduated from UBC Okanagan in 2021 with a bachelor’s degree in Business Management. Since then, I’ve decided to pivot towards a career in software engineering and am currently working towards a bachelor's degree in Computer Science ([BCS](https://www.cs.ubc.ca/students/undergrad/degree-programs/bcs-program-second-degree)) at UBC.
+I graduated from UBC Okanagan in 2021 with a bachelor’s degree in Business Management. Since then, I've decided to pivot towards a career in software engineering and am currently working towards a bachelor's degree in Computer Science ([BCS](https://www.cs.ubc.ca/students/undergrad/degree-programs/bcs-program-second-degree)) at UBC.
 
 I enjoy problem-solving, working alongside collaborative teams, and using interesting technologies to find solutions to everyday challenges.
 
